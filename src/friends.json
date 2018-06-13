@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "https://cdn.pixabay.com/photo/2018/06/05/20/23/dragonfly-3456317_1280.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.pixabay.com/photo/2018/06/09/16/47/alpaca-3464730_960_720.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.pixabay.com/photo/2018/06/09/20/54/orangutan-3465130_1280.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.pixabay.com/photo/2018/06/08/21/10/tiger-3463162_1280.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.pixabay.com/photo/2018/06/11/00/21/foal-3467629_1280.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.pixabay.com/photo/2018/05/07/10/48/husky-3380548_1280.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.pixabay.com/photo/2018/06/10/13/51/swan-3466552_1280.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.pixabay.com/photo/2018/03/11/20/42/mammals-3218028_1280.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.pixabay.com/photo/2018/05/31/11/31/squirrel-3443707_1280.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.pixabay.com/photo/2018/05/19/23/17/animal-3414612_1280.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.pixabay.com/photo/2018/04/13/21/24/lion-3317670_1280.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://cdn.pixabay.com/photo/2018/06/04/20/12/hoverfly-3454075_1280.jpg",
+      "clicked": false
+    }
+  ]
+  

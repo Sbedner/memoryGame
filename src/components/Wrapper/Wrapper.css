@@ -1,0 +1,11 @@
+.wrapper {
+    background: rgb(175, 175, 175);
+    background-image: url('https://previews.123rf.com/images/niradj/niradj1508/niradj150800079/44497514-jungle-background-krabi-thailand.jpg');
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 41x;
+  }
